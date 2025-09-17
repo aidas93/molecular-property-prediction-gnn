@@ -1,4 +1,4 @@
-# 🧪 Molecular Property Prediction with Graph Neural Networks (GNN)
+# Molecular Property Prediction with Graph Neural Networks (GNN)
 
 ## Overview
 Graph Neural Network implemented with **PyTorch Geometric** for molecular property prediction on the **QM9 dataset**.  
@@ -28,3 +28,4 @@ Performance improves with larger training splits and more epochs.
 - Multi-target prediction (all 19 properties)  
 - Explore advanced GNNs (GIN, Graph Attention Networks)  
 - Hyperparameter tuning and scaling
+
